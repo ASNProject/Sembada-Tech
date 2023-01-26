@@ -1,5 +1,5 @@
 # Sembada-Tech
-See the project: [http://sembadatech.com](Sembada Tech)
+See the project: [Sembada Tech](http://sembadatech.com/)
 ## Clone & Run
 Clone this project
 ```
